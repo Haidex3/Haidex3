@@ -94,7 +94,3 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
-
-------
-Credit: [thenuka99](https://github.com/thenuka99)
-12/01/2023
