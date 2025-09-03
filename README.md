@@ -63,12 +63,13 @@ Here are some ideas to get you started:
 <br><br><br><br>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Haidex3">
+  <a href="https://github-profile-trophy.vercel.app/?username=Haidex3" style="text-decoration:none;">
     <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-    &nbsp;Git profile Trophies
+    <span>&nbsp;Git&nbsp;Profile&nbsp;Trophies</span>
   </a>
 </p>
 <br>
+
 
 
 <p align="center">
